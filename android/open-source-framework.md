@@ -7,7 +7,7 @@
 ## 二、目录
 
 - [OkHttp解析](/android/open-source-framework/okhttp.md)
-- [Retrofit解析](/android/open-source-framework/Retrofit.md)
+- [Retrofit解析](/android/open-source-framework/Retrofit.md)  rxjava原理：https://gank.io/post/560e15be2dca930e00da1083
 - [EventBus解析](/android/open-source-framework/EventBus.md)
 
 
