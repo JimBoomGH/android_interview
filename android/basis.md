@@ -13,6 +13,9 @@
 
 ## 二、目录
 
+Android高性能编码三：数据结构和算法优化  1.使用SparseArray、ArrayMap代替HashMap 2.根据情况选择适合的collection容器 3.根据实际情况，选择合适的算法
+4.采用ConcurrentHashMap处理需要线程同步的Map
+
 - [Activity全方位解析](/android/basis/activity.md)
 - [Service全方位解析](/android/basis/service.md)
 - [BroadcastReceiver全方位解析](/android/basis/broadcastreceiver.md)
